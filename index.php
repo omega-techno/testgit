@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
         <script>
             alert("Hello gitHub!");
+            alert('Kean IT Khmer');
         </script>
     </head>
     
