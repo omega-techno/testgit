@@ -17,9 +17,11 @@ and open the template in the editor.
             alert("I also add bottom");
             Hello Pheara welcome to gitHub
              alert("sexsexsexsexsexsexsexsexsex");
+             gggggggggggggggggggggggg
         </script>
         ABC DEFGCH
         Hello Pheara welcome to gitHub
+        gggggggggggggggggggggggg
         <style>
             img{width:100px;height:100px;}
         </style>
@@ -30,18 +32,20 @@ and open the template in the editor.
         sexbananasexbananasexbananasexbananasexbanana
         <?php
             TEST FROM OTHER
+        gggggggggggggggggggggggg
         Hello Pheara welcome to gitHub
             echo "this is the first time we use GitHub";
             // put your code here
-              echo "the second!";
+              echo "the second!";gggggggggggggggggggggggg
               echo "sexbananasexbananasexbananasexbanana";
         ?>
-        Hello Pheara welcome to gitHub
+        Hello Pheara welcome to gitHubgggggggggggggggggggggggg
         <img src="banner.jpg"/>Hello Pheara welcome to gitHub
-        Hello Pheara welcome to gitHub
+        Hello Pheara welcome to gitHubgggggggggggggggggggggggg
         <input type="button" id="btn1" value="click me"/>sexbananasexbanana
-        <img src="banner.jpg"/>
+        <img src="banner.jpg"/>gggggggggggggggggggggggg
         sexbananasexbananasexbananasexbanana
+        gggggggggggggggggggggggg
         Hello Pheara welcome to gitHub
         <DIV>HI KLOUND</div>
         <DIV>I'm sopheara want to go to school</div>
