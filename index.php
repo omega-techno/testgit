@@ -9,10 +9,13 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
+            alert("sexsexsexsexsexsexsexsexsex");
             alert("I add top");
-            alert("Hello gitHub!");
+            alert("Hello gitHub!");alert("sexsexsexsexsexsexsexsexsex");
+            alert("sexsexsexsexsexsexsexsexsex");
             alert('Kean IT Khmer');
-            alert("I also add bottom");xxxxx
+            alert("I also add bottom");
+             alert("sexsexsexsexsexsexsexsexsex");
         </script>
         <style>
             img{width:100px;height:100px;}
@@ -20,14 +23,17 @@ and open the template in the editor.
     </head>
     
     <body>
+        sexbananasexbananasexbananasexbananasexbanana
         <?php
             echo "the second!";
             echo "this is the first time we use GitHub";
             // put your code here
               echo "the second!";
+              echo "sexbananasexbananasexbananasexbanana";
         ?>
         <img src="banner.jpg"/>
-        <input type="button" id="btn1" value="click me"/>
+        <input type="button" id="btn1" value="click me"/>sexbananasexbanana
         <img src="banner.jpg"/>
+        sexbananasexbananasexbananasexbanana
     </body>
 </html>
