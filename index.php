@@ -12,7 +12,7 @@ and open the template in the editor.
             alert("I add top");
             alert("Hello gitHub!");
             alert('Kean IT Khmer');
-            alert("I also add bottom");
+            alert("I also add bottom");xxxxx
         </script>
         <style>
             img{width:100px;height:100px;}
