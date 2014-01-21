@@ -9,17 +9,25 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
+            alert("I add top");
             alert("Hello gitHub!");
             alert('Kean IT Khmer');
+            alert("I also add bottom");
         </script>
+        <style>
+            img{width:100px;height:100px;}
+        </style>
     </head>
     
     <body>
         <?php
+            echo "the second!";
             echo "this is the first time we use GitHub";
             // put your code here
+              echo "the second!";
         ?>
         <img src="banner.jpg"/>
         <input type="button" id="btn1" value="click me"/>
+        <img src="banner.jpg"/>
     </body>
 </html>
