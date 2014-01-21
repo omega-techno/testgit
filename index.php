@@ -17,6 +17,7 @@ and open the template in the editor.
             alert("I also add bottom");
              alert("sexsexsexsexsexsexsexsexsex");
         </script>
+        ABC DEFGCH
         <style>
             img{width:100px;height:100px;}
         </style>
@@ -25,7 +26,7 @@ and open the template in the editor.
     <body>
         sexbananasexbananasexbananasexbananasexbanana
         <?php
-            echo "the second!";
+            TEST FROM OTHER
             echo "this is the first time we use GitHub";
             // put your code here
               echo "the second!";
@@ -34,6 +35,10 @@ and open the template in the editor.
         <img src="banner.jpg"/>
         <input type="button" id="btn1" value="click me"/>sexbananasexbanana
         <img src="banner.jpg"/>
+
         sexbananasexbananasexbananasexbanana
+
+        <DIV>HI KLOUND</div>
+
     </body>
 </html>
